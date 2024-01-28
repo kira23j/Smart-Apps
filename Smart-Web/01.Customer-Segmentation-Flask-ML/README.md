@@ -2,7 +2,7 @@
 # Overview
 
 This Flask app deploys a machine learning customer segmentation model using K-Means clustering. The model takes into account annual income and spending score provided by the mall, classifying customers into different segments. This segmentation can be valuable for targeted marketing and personalized customer engagement strategies.
-
+![shot](https://github.com/kira23j/Smart-Apps/blob/main/01.Customer-Segmentation-Flask-ML/screenshot/capture.png)
 ## Requirements
     Python 3.x
     Flask
