@@ -1,3 +1,6 @@
 [submodule "AiX"]
 	path = AiX
 	url = https://github.com/kira23j/AIx
+[submodule "week-7@10academy"]
+	path = week-7@10academy
+	url = https://github.com/kira23j/medsight-ai
