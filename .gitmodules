@@ -4,3 +4,6 @@
 [submodule "week-7@10academy"]
 	path = week-7@10academy
 	url = https://github.com/kira23j/medsight-ai
+[submodule "ML-DL-Labs"]
+	path = ML-DL-Labs
+	url = https://github.com/kira23j/ML-DL-Labs
