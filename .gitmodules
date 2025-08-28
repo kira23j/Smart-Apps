@@ -7,3 +7,9 @@
 [submodule "ML-DL-Labs"]
 	path = ML-DL-Labs
 	url = https://github.com/kira23j/ML-DL-Labs
+[submodule "Generative-Ai"]
+	path = Generative-Ai
+	url = https://github.com/kira23j/Generative-Ai
+[submodule "Agentic-Ai"]
+	path = Agentic-Ai
+	url = https://github.com/kira23j/Agentic-Ai
