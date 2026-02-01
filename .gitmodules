@@ -7,3 +7,6 @@
 [submodule "Agentic-Ai"]
 	path = Agentic-Ai
 	url = https://github.com/kira23j/Agentic-Ai
+[submodule "AI-Engineering"]
+	path = AI-Engineering
+	url = https://github.com/kira23j/AI-Engineering.git
